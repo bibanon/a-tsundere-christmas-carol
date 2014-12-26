@@ -14,12 +14,12 @@ To preserve this impressive work of art for *Christmas future*, this visual nove
 
 ## Downloads
 
-To play the visual novel, download the full executable from Github Releases:
+To play the visual novel, download the full executable from [Github Releases](https://github.com/bibanon/a-tsundere-christmas-carol/releases):
 
-* v1.0
-  * [Windows]()
-  * [Mac OS X]()
-  * [Linux]()
+* [v1.0](https://github.com/bibanon/a-tsundere-christmas-carol/releases/tag/v1.0) by VNAnon
+  * [Windows](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-win.zip)
+  * [Mac OS X](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-mac.zip)
+  * [Linux](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-linux.tar.bz2)
 
 ## Source Code
 
