@@ -6,12 +6,6 @@ To preserve this impressive work of art for *Christmas future*, this visual nove
 
 * [Archive.moe - /a/118813801 : VN Announcement Thread](http://archive.moe/a/thread/118813801)
 
-## Screenshots
-
-![Title Screen](http://i.imgur.com/R2UTmUd.png)
-
-![Kamina Appears](http://i.imgur.com/dDp1RLu.png)
-
 ## Downloads
 
 To play the visual novel, download the full executable from [Github Releases](https://github.com/bibanon/a-tsundere-christmas-carol/releases):
@@ -20,6 +14,12 @@ To play the visual novel, download the full executable from [Github Releases](ht
   * [Windows](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-win.zip)
   * [Mac OS X](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-mac.zip)
   * [Linux](https://github.com/bibanon/a-tsundere-christmas-carol/releases/download/v1.0/A-Tsundere-Carol-1.0-linux.tar.bz2)
+
+## Screenshots
+
+![Title Screen](http://i.imgur.com/R2UTmUd.png)
+
+![Kamina Appears](http://i.imgur.com/dDp1RLu.png)
 
 ## Source Code
 
