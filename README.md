@@ -33,8 +33,6 @@ The Bibliotheca Anonoma specializes in archiving software projects and creating 
 
 However, we would prefer to pass the repository on to the original author, and educate devs how to maintain the repo and the website. Successful examples include the [Hydrus Tagging System](http://github.com/hydrusnetwork/hydrus/).
 
-However, you'd have to figure out a way to prove that you made it somehow... I assume that the author also made [My Little Dictator?](http://mylittledictator.wordpress.com/) I don't know.
-
-Just get a Github account, [open an issue on this repository](https://github.com/bibanon/a-tsundere-christmas-carol/issues) and make a claim. We'd be glad to help.
+I assume that the original author also made [My Little Dictator?](http://mylittledictator.wordpress.com/) I don't know. If you'd like to make a claim, just get a Github account and [open an issue on this repository](https://github.com/bibanon/a-tsundere-christmas-carol/issues). We'd be glad to help.
 
 For 4chan projects like this, we recommend [the WTFPL license.](http://www.wtfpl.net/txt/copying/)
