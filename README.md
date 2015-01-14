@@ -1,6 +1,6 @@
 **A Tsundere Christmas Carol** is a heartwarming story posted every Christmas Eve to 4chan's /a/ since 2011.
 
-A Ren'Py visual novel rendition of this story has been worked on [since 2011.](http://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=13155) After the huge publicity following the [2014 /a/ sticky](https://archive.moe/a/thread/118778767), the author decided to rush and release a finalized 1.0 version. The author of the latest rendition is ["DesertFox"](http://boards.4chan.org/a/thread/118778767/a-tsundere-christmas-carol#p118815355), the same person who made My Little Dictator, apparently.
+A Ren'Py visual novel rendition of this story has been worked on [since 2011.](http://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=13155) After the huge publicity following the [2014 /a/ sticky](https://archive.moe/a/thread/118778767), the author decided to rush and release a finalized 1.0 version. The author of the latest rendition is ["DesertFox"](http://boards.4chan.org/a/thread/118778767/a-tsundere-christmas-carol#p118815355), who happens to be working on [My Little Dictator.](https://mylittledictator.wordpress.com/)
 
 To preserve this impressive work of art for *Christmas future*, this visual novel and it's source code has been archived by the [Bibliotheca Anonoma](http://github.com/bibanon/bibanon/wiki) and can be downloaded from this Github repository.
 
